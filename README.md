@@ -1,5 +1,8 @@
 # The impact of the COVID-19 pandemic on polypharmacy and the association of polypharmacy with COVID-19 vulnerability
 
+**Caroline E Dale, Rohan Takhar, Andrew Lambarth, Andrew Mason, Nathalie Conrad, Christopher Tomlinson, Spiros Denaxas, Mamas A Mamas, Andrew D Morris, Munir Pirmohamed, Kamlesh Khunti, Cathie Sudlow, Angela Wood, Naveed Sattar, Reecha Sofat, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
+
+
 ## Project description
 
 The current medicine spend in the UK is £20 billion per annum. As individuals age, they accrue disease (multimorbidity) and as a result may be commenced on multiple preventative medicines long-term (polypharmacy). Levels of polypharmacy have been rising in the UK, increasing the potential for serious drug-drug interactions. Moreover, previous research suggests both multi-morbidity and polypharmacy are associated with higher risk of COVID-19.    
